@@ -1,0 +1,11 @@
+[package]
+name = "rendy-test"
+version = "0.1.0"
+authors = ["Kyle Gretchev <kgretchev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nphysics3d = "0.11"
+rendy = "0.3"
+specs = "0.15"
+winit = "0.20.0-alpha2"
